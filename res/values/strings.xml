@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeTable</string>
+    <string name="action_settings">Settings</string>
+    <string name="it">School of IT</string>
+    <string name="fresh">Freshman</string>
+    <string name="mon">Monday</string>
+    <string name="eng">School Of Engingeering</string>
+    <string name="tue">Tuesday</string>
+
+</resources>
