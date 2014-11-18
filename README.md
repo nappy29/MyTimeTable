@@ -1,4 +1,4 @@
 MyTimeTable
 ===========
 
-mini android local time table app
+This is a fork 
